@@ -12,5 +12,6 @@
 - 📡 I live in China.
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ravello-H.readme)
-![info](https://github-readme-stats.vercel.app/api?username=Ravello-H&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ravello-H&include_all_commits=true&show_icons=true)
