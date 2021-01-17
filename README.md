@@ -12,7 +12,7 @@
 - 📡 I live in China.
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
 ---
-Other Languages:
+#### Other Languages:
 
 <details>
   
@@ -72,7 +72,8 @@ Other Languages:
  </details>
  
 ---
-
+<div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ravello-H&include_all_commits=true&show_icons=true)
 
+</div>
