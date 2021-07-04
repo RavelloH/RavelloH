@@ -1,7 +1,7 @@
 ### Hi! There 👋
-> I'm RavelloH,who's be interested in *HTML5、CSS、JS*.
+> I'm RavelloH,who's be interested in *HTML5、CSS、JS and C#*.
 > 
-> 2021,Happy NEW YEAR!
+> 庆祝毕业！
 
 
 - 🌐 Welcome to my GithubPages: (http://ravelloh.github.io or http://ravelloh.gitee.io)
@@ -68,7 +68,7 @@
 - 😄 代称: RH
 - 📡 我住在中国。
 - 💭 愿: `0 Warning(s),0 Error(s)`
-
+![](https://visitor-badge.glitch.me/badge?page_id=RavelloH.readme)
  </details>
  
 ---
