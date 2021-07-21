@@ -3,7 +3,6 @@
 > 
 > 庆祝毕业！
 
-
 - 🌐 Welcome to my GithubPages: (http://ravelloh.github.io or http://ravelloh.gitee.io)
 - 🤔 I'm working on an Websitetheme（ [RTheme](https://github.com/ravelloh/rtheme) ）.
 - 🌱 I’m currently learning.
