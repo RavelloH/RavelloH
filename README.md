@@ -1,3 +1,21 @@
+```C#
+using Universe;
+namespace Earth
+{
+    class World
+    {
+        static void Main(string[] args)
+        {
+            int overtime = Convert.ToInt32(Console.ReadLine());
+            Thread.Sleep(overtime);
+            childThread.Abort();
+            Console.ReadKey();
+            //Take control of your world.
+        }
+    }
+}
+```
+
 ### Hi! There 👋
 > I'm RavelloH,who's be interested in *HTML5、CSS、JS and C#*.
 > 
