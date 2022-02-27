@@ -100,5 +100,5 @@ namespace Earth
 <div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RavelloH&include_all_commits=true&show_icons=true)
-
+![Count](https://count.getloli.com/get/@ravelloh?theme=rule34)
 </div>
