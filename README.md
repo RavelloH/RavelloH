@@ -16,9 +16,7 @@ namespace Earth
 }
 ```
 
-### Hi! There 👋
-> I'm RavelloH,who's be interested in *HTML5、CSS、JS and C#*.
-> 
+### Hi! There 👋 
 > Debug the life.
 
 <div align="center">
