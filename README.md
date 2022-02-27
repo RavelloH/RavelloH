@@ -4,13 +4,13 @@ namespace Earth
 {
     class World
     {
-        static void Main(string[] args)
+        public static void CallToChildThread()
         {
             int overtime = Convert.ToInt32(Console.ReadLine());
             Thread.Sleep(overtime);
             childThread.Abort();
             Console.ReadKey();
-            //Take control of your world.
+            // Take control of your world.
         }
     }
 }
