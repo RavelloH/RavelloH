@@ -1,19 +1,5 @@
-```C#
-using Universe;
-namespace Earth
-{
-    class World
-    {
-        public static void CallToChildThread()
-        {
-            int overtime = Convert.ToInt32(Console.ReadLine());
-            Thread.Sleep(overtime);
-            childThread.Abort();
-            Console.ReadKey();
-            // Take control of your world.
-        }
-    }
-}
+```python
+world.run_until_complete()
 ```
 
 ### Hi! There 👋 
