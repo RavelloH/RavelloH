@@ -53,8 +53,7 @@ jobs:
           plugin_languages_details: bytes-size
           plugin_languages_ignored: html
           plugin_languages_indepth: yes
-          plugin_languages_limit: 10
-          plugin_languages_other: yes
+          plugin_languages_limit: 20
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
