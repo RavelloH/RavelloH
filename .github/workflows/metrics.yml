@@ -33,7 +33,6 @@ jobs:
           base_indepth: yes
           config_display: large
           config_octicon: yes
-          config_presets: @ravelloh
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           plugin_discussions: yes
