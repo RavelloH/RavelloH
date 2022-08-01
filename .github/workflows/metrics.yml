@@ -6,6 +6,18 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+  
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -77,3 +89,22 @@ jobs:
           plugin_rss_source: https://fetchrss.com/rss/62e7476cbc64503f4d1c8c3262e748042496e12e1401c6e3.xml
           plugin_traffic: yes
           repositories_forks: yes
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@main
