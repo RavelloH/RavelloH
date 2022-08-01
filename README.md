@@ -11,7 +11,7 @@ world.run_until_complete()
 
 <div align="center">
   
-<img src="/github-metrics.svg" alt="My Metrics" width="100%">
+<img src="https://ravelloh.github.io/RavelloH/github-metrics.svg" alt="My Metrics" width="100%">
   
   ↑↑↑Don't you want to visit my blog? Just [CLICK ON THIS LINK🔗](https://ravelloh.github.io)!
 </div>
