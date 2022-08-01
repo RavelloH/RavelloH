@@ -66,6 +66,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_types: commit
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: .user.website
@@ -74,6 +75,6 @@ jobs:
           plugin_projects_limit: 4
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://ravelloh.github.io/rss.rss
+          plugin_rss_source: https://fetchrss.com/rss/62e7476cbc64503f4d1c8c3262e748042496e12e1401c6e3.xml
           plugin_traffic: yes
           repositories_forks: yes
