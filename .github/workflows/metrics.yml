@@ -91,6 +91,7 @@ jobs:
           repositories_forks: yes
 
   deploy:
+    needs: github-metrics
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
