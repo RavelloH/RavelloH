@@ -17,7 +17,8 @@ world.run_until_complete()
 </div>
 
 ---
-
+<details>
+<summary align="center"> <b> 更多 </b> </summary>
 
 - 🌐 Welcome to my GithubPages: (http://ravelloh.github.io or http://ravelloh.gitee.io)
 - 🤔 I'm working on an Websitetheme（ [RTheme](https://github.com/ravelloh/rtheme) ）.
@@ -85,11 +86,10 @@ world.run_until_complete()
 - 💭 愿: `0 Warning(s),0 Error(s)`
 ![](https://visitor-badge.glitch.me/badge?page_id=RavelloH.readme)
  </details>
+</details>
  
 ---
 <div align="center">
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=RavelloH&include_all_commits=true&show_icons=true)
-    
-![Count](https://count.getloli.com/get/@ravelloh?theme=rule34)
+<img src="https://github-readme-stats.vercel.app/api?username=RavelloH&include_all_commits=true&show_icons=true" alt="My Grade" width="40%">
+<img src="https://count.getloli.com/get/@ravelloh?theme=rule34" alt="My Count" width="40%">    
 </div>
