@@ -46,7 +46,7 @@ jobs:
           config_display: large
           config_octicon: yes
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
+          config_twemoji: no
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_discussions_categories_limit: 0
