@@ -85,8 +85,8 @@ jobs:
           plugin_projects_descriptions: yes
           plugin_projects_limit: 4
           plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://ravelloh.github.io/RSS/rss.xml
+          plugin_rss_limit: 10
+          plugin_rss_source: https://ravelloh.github.io/feed/rss.xml
           plugin_traffic: yes
           repositories_forks: yes
 
