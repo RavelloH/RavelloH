@@ -117,6 +117,9 @@ jobs:
           plugin_tweets_user: .user.twitter
 
   deploy:
+    needs: github-metrics
+    permissions:
+      contents: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
