@@ -120,6 +120,8 @@ jobs:
     needs: github-metrics
     permissions:
       contents: write
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
