@@ -19,13 +19,10 @@ world.run_until_complete()
 
 ---
 <details>
-<summary align="center"> <b> 更多 </b> </summary>
+<summary align="center"> <b> More </b> </summary>
 
-- 🌐 Welcome to my Blog: (http://ravelloh.top)
-- 🌱 I’m currently learning.
-- 📫 How to reach me: (dr_hamilton@foxmail.com)
-- 😄 Pronouns: RH
-- 📡 I live in China.
+- 🌐 Welcome to my Blog: (http://ravelloh.com)
+- 📫 How to reach me: (me@ravelloh.com)
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
 
 </details>
